@@ -1,0 +1,21 @@
+{
+    "name": "jaydeep",
+    "displayName": "Jaydeep",
+    "description": "updated dark theme from monokai",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jaydeep's Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jaydeep's Monokai-color-theme.json"
+            }
+        ]
+    }
+}
