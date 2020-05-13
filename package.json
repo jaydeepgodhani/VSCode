@@ -1,13 +1,19 @@
 {
-    "name": "jaydeep",
-    "displayName": "Jaydeep",
+    "name": "Monokai",
+    "displayName": "Monokai Smooth",
     "description": "updated dark theme from monokai",
     "version": "0.0.1",
+    "publisher": "Jaydeep",
     "engines": {
-        "vscode": "^1.45.0"
+        "vscode": ">=0.9.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+      "Monokai",
+      "Monokai Smooth",
+      "Theme"
     ],
     "contributes": {
         "themes": [
