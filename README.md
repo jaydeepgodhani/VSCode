@@ -1,6 +1,6 @@
 # README
 An Updated Theme for Monokai User
 
-![monokai smooth](https://raw.githubusercontent.com/foxtrot9/monokaiPolishedVSCode/master/images/Monokoi-Polished.png)
+![monokai smooth](https://github.com/jaydeepgodhani/VSCode/blob/master/images/monokaismooth.png)
 
 **Enjoy!**
